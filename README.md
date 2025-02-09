@@ -1,7 +1,6 @@
 # Conversor-de-temperatura
-Um Conversor de temperatura feito em java com interface gráfica, interface essa sendo feita usando o Swing.
-Este conversor entende três escalas termométricas: graus Celsius,  graus Fahrenheit e graus Kelvin.
+Um conversor de temperatura desenvolvido em Java com interface gráfica criada utilizando Swing. O programa suporta conversões entre três escalas termométricas: Celsius, Fahrenheit e Kelvin, proporcionando uma experiência intuitiva e prática.
 
-Abaixo vocês podem ver algumas imagens do programa em ação.
+Abaixo, você pode conferir algumas imagens do programa em funcionamento.
 
 ![Screnshot](https://github.com/Matheus-dev58/Conversor-de-temperatura/blob/main/imgGit/Conversor.png)
